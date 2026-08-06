@@ -1,0 +1,427 @@
+/*----tudo do index aqui!----*/
+
+body.inicio{
+     margin:0;
+    padding:0;
+    background:#FAF7FC; /* Fundo da página */
+    font-family:'Poppins', Arial, Helvetica, sans-serif;
+}
+
+.container{
+   width:800px;
+    margin:30px auto;
+    background:#FFFFFF; /* Caixa principal */
+    border-radius:20px;
+    box-shadow:0 8px 20px rgba(0,0,0,.10);
+    padding:30px;
+}
+
+.inicio header{
+  background:#CDB4DB; /* Cabeçalho */
+    color:white;
+    text-align:center;
+    padding:25px;
+    border-radius:15px;
+    font-size:28px;
+}
+
+.inicio img{
+     width:250px;
+    height:250px;
+    border-radius:50%;
+    display:block;
+    margin:30px auto;
+    object-fit:cover;
+    border:6px solid #E9D8F1; /* Borda da foto */
+    box-shadow:0 6px 15px rgba(0,0,0,.15);
+}
+.inicio h2{
+    color:#8E7AB5; /* Títulos */
+    border-left:5px solid #CDB4DB;
+    padding-left:10px;
+}
+
+.inicio ul{
+    padding-left:20px;
+}
+
+.inicio li{
+    margin:10px 0;
+}
+
+.inicio a{
+     color:#8E7AB5; /* Links */
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.inicio a:hover{
+    color:#6C5B7B; /* Cor ao passar o mouse */
+    text-decoration:underline;
+}
+
+.inicio footer{
+  text-align:center;
+    margin-top:30px;
+    color:#6C5B7B;
+}
+/*----tudo da atv 1 aqui!---*/
+
+.galinha body{
+    background-color: #f5fedc;
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.galinha header{
+    background-color: #2e7d32;
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.galinha h1,
+.galinha h2{
+    color:#1b5e20;
+    background-color: #2e7d32;
+}
+.galinha h3{
+    background-color: #1b5e20;
+    color: #333;
+    letter-spacing: 15;
+}
+.galinha img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+
+/*----tudo da atv 2 aqui---*/
+
+.vaca{
+    background-color: #eef7ee;
+    color:#333333;
+    font-family: 'Times New Roman', Times, serif;
+}
+.vaca h1,
+.vaca h2{
+    background-color:#2e7d32;
+    color: #1b5e20;
+}
+.vaca img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+
+/*---tudo da atv 3---*/
+
+.abelha{
+    background-color: #FFF4D6;
+    color: #333333;
+}
+.abelha h1{
+    background-color: #FFE8A3;
+    color: #8B6F47;
+    font-family: 'Times New Roman', Times, serif;
+}
+.abelha h2{
+    background-color: #FFE8A3;
+    color: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.abelha ul{
+    color: #d1a244;
+}
+.abelha img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+
+/*----tudo da atv 4 aqui----*/
+
+.horta{
+    background-color: #F1F8E9;
+    color: #333333;
+}
+.horta h1{
+    background-color: #A8C686;
+    color: #355834;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.horta img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+.horta h2{
+    background-color: #A8C686;
+    color: #355834;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.horta ol{
+    color: #355834;
+}
+.horta blockquote{
+    color: #2e7d32;
+}
+ /*----TUDO DA ATV 5 AQUI!----*/
+
+ .cooperativa{
+    background-color: #F3F6E8;
+    color: #333333;
+ }
+ .cooperativa h1{
+    background-color: #6FA34D;
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .cooperativa h2{
+    background-color: #6FA34D;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+ }
+ .cooperativa ul{
+    color: #1b5e20;
+ }
+ .cooperativa ol{
+    color: #1b5e20;
+ }
+ .cooperativa blockquote{
+    color: #d1a244;
+ }
+ .cooperativa img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+ }
+ /*----TUDO DO DESAFIO 1 DA SEMANA 1 AQUI----*/
+ .feira{
+    background-color: #FFF8E7;
+    color: #333333;
+ }
+ .feira h1{
+    background-color: #E9A23B;
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .feira h2{
+    background-color: #F4C95D;
+    color: #6B4F2A;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+ }
+ .feira h3{
+    color: #6B4F2A;
+ }
+ .feira ol{
+    color: #1b5e20;
+ }
+ .feira ul{
+    color: #1b5e20;
+ }
+ .feira img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+ }
+ .feira table{
+    background-color: #eef7ee;
+    color:#1b5e20;
+    font-family: 'Times New Roman', Times, serif;
+}
+.feira td,
+.feira th{
+    border: 1px solid #333;
+    padding: 8px;
+}
+
+/*----TUDO DA SEMANA 2 ATV 1 AQUI!----*/
+
+.copa{
+    background-color: #F1F8E9;
+    color: #333333;
+}
+.copa h1{
+    background-color: #2E7D32;
+    color: #FFFFFF;
+}
+.copa h2{
+    background-color: #FBC02D;
+    color: #333333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.copa h3{
+    background-color: #C8E6C9;
+    color: #2E5D34;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.copa img{
+    border-radius: 12px;
+    box-shadow:0 4px 10px rgba(0, 0, 0, 1);
+}
+.copa ul{
+    color: #6B4F2A;
+}
+
+/*----TUDO DA SEMANA 2 ATV 2 AQUI!----*/
+
+.brasil{
+    background-color: #F6F4E8;
+    color: #333333;
+}
+.brasil h1{
+    background-color: #7FA98B;
+    color: #FFFFFF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.brasil h2{
+    background-color: #E8C97A;
+    color: #5B5132;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+  border-radius: 10px;
+}
+.brasil h3{
+    background-color: #A9C7D8;
+    color: #34505E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 8px;
+  border-radius: 10px;
+}
+.brasil ul{
+    color: #34505E;
+}
+.brasil ol{
+    color: #34505E;
+}
+.brasil img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+
+/*----TUDO DA SEMANA 2 ATV 3 AQU!----*/
+
+.cidades{
+    background-color:  #F5F7F4;
+    color: #333333;
+}
+.cidades h1{
+    background-color:  #A8D5BA;
+    color:#1F3B2D;
+    padding: 10px;
+}
+.cidades h2{
+    background-color: #BFD7EA;
+    color:  #1F4E79;
+    padding: 8px;
+}
+.cidades h3{
+    background-color:  #F7C8C8;;
+    color:  #7A2E2E;
+    padding: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.cidades img{
+    border-radius: 12px;
+    box-shadow: o 4px 10px rgba(0, 0, 0, 1);
+}
+.cidades ul{
+    color: #296380;
+}
+
+/*----TUDO DA ATV 4 DA SEMANA 2 AQUI!----*/
+
+.curiosidades{
+    background-color: #F8F6F0;
+    color: #333333;
+}
+.curiosidades h1{
+    background-color:  #D9B44A;
+    color: #5A4300;
+    padding: 12px;
+    border-radius: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.curiosidades h2{
+    background-color: #A8DADC;
+    color:  #174A5C;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.curiosidades h3{
+    background-color:  #B7D3A8;
+    color: #28502E;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.curiosidades ul,
+.curiosidades ol{
+    color: #1F4E79;
+}
+
+/*----TUDO DA ATV 5 DA SEMANA 2 AQUI!----*/
+
+.final{
+    background-color: #F4F1EA;
+    color: #333333;
+}
+.final h1{
+    background-color: #D4AF37;
+    color: #4A3500;
+    padding: 12px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.final h2{
+    background-color:  #1E3A5F;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 8px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.final h3{
+    background-color:  #C94C4C;
+    color:#FFFFFF;
+    padding: 8px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.final strong{
+    color: red;
+}
+.final img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
+
+/*----TUDO DA DESAFIO 1 DA SEMANA 2----*/
+
+.galeria{
+    background-color: #F8F6F2;
+    color: #333333;
+}
+.galeria h1{
+    background-color: #2D4059;
+    color: #FFFFFF;
+}
+.galeria h2{
+    background-color: #D4AF37;
+    color: #2D4059;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.galeria h3{
+    background-color: #F1E5AC;
+    color: #4A3F35;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-radius: 8px;
+}
+.galeria img{
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+}
